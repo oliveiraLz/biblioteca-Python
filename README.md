@@ -9,10 +9,3 @@ Este projeto é um sistema simples de gerenciamento de biblioteca implementado e
 3. **Empréstimo de Livros:** Permite emprestar livros para usuários registrados na biblioteca, marcando os livros como indisponíveis.
 4. **Devolução de Livros:** Permite que os usuários devolvam livros, marcando-os como disponíveis novamente.
 5. **Listagem de Livros Disponíveis:** Exibe a lista de livros atualmente disponíveis na biblioteca.
-
-## Como Utilizar
-
-1. Clone o repositório para sua máquina local.
-
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-gerenciamento-biblioteca.git
